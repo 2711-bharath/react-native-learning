@@ -1,6 +1,6 @@
 # React Native Setup in Windows
 
-[Click here for checking official documentation for Setting up the development environment for React Nativ](https://reactnative.dev/docs/environment-setup)
+[Click here for checking official documentation for Setting up the development environment for React Native](https://reactnative.dev/docs/environment-setup)
 
 - Install choco, node and JDK
 - Install Android Studio
