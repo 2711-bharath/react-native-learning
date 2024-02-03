@@ -17,3 +17,17 @@ React.js is designed for web applications and renders components in the browser 
 <p>No we can't write text or string in view directly.</p>
 
 <p>HTML elements start with lower case where as react native components start with capital case.</p>
+
+## What is JSX?
+
+<p>JSX stands for JavaScript XML and it is a syntax extension of JavaScript. JSX is an easier way to create and work with user interface elements in JavaScript. It is a mix of HTML and JavaScript, making it is easier to express how our web page should look and behave.</p>
+
+<p>
+<b>JSX supports embedding JavaScript expressions within curly braces `{}`.</b> 
+Example:
+</p>
+
+```
+const name = 'Bharath';
+const element = <p>Hello, {name}!</p>;
+```
