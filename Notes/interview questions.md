@@ -11,3 +11,9 @@ React.js is designed for web applications and renders components in the browser 
 
 <p> The package.json file focuses on project metadata and specifying the desired versions of dependencies, while the package-lock.json file ensures deterministic installations by locking the exact versions of dependencies and their dependencies.
 </p>
+
+## Can we use text or string directly in View component? What is difference between html elements and react native components?
+
+<p>No we can't write text or string in view directly.</p>
+
+<p>HTML elements start with lower case where as react native components start with capital case.</p>
